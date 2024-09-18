@@ -2,7 +2,7 @@
 
 Functionalities Requirements:
 
-------------------------------------------- PASS LEVEL (15 marks) -------------------------------------------
+------------------------------------------- LEVEL 1 -------------------------------------------
 
 Your project is to implement the required functionalities in the Object-Oriented (OO) style with at
 least three classes: Results, Course, and Student. You need to design appropriate static/instance
@@ -53,7 +53,7 @@ Note that users can specify different file names, not necessarily the names resu
 students.txt. The first file is always the result file, the second file is the course file, and the last
 file is the student file.
 
-------------------------------------------- CREDIT LEVEL -------------------------------------------
+------------------------------------------- LEVEL 2 -------------------------------------------
 
 At this level, your program can support more information about courses. Now, apart from the ID, each
 course will have a name, credit point, and offered semester(s). All IDs, names, credits, and offered
@@ -88,7 +88,7 @@ difficult core course and elective course. The most difficult course is the cour
 mark. In each course type, if there are multiple courses with the lowest average marks, you can choose
 either to display one course or display all courses.
 
-------------------------------------------- DI LEVEL  -------------------------------------------
+------------------------------------------- LEVEL 3  -------------------------------------------
 
 At this level, your program can support two types of students: Undergraduate Students and
 Postgraduate Students. Undergraduate students always need to enroll as full-time students whilst
@@ -130,7 +130,7 @@ Undergraduate student, along with their GPA(4) scores, are also shown. The best 
 students with the highest GPA (scale of 4). In each student type, if there are multiple students with the
 highest scores, you can choose to display one or all these students.
 
-------------------------------------------- HD LEVEL -------------------------------------------
+------------------------------------------- LEVEL 4 -------------------------------------------
 
 At this level, your program can handle some variations in the files using built-in/custom exceptions:
 1. When any of the file cannot be found, then your program should print a message indicating the
