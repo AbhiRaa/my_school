@@ -1,0 +1,780 @@
+Date and time when the report was generated : 18/09/2024 23:44:05
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S034           Liam                   PG        FT     83.07      3.67      3.71         3         1
+S012           Sarah                  PG        PT     76.50      3.00      3.00         1         1
+S349           Alex                   PG        PT     72.40      3.00      3.00         1         1
+S001           Jack (!)               PG        FT     57.10      1.33      1.00         3         0
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S236           Sophia                 UG        FT     91.42      4.00      4.00         4         0
+S120           Charlie                UG        FT     52.38      0.75      1.25         4         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:31:36
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S034           Liam                   PG        FT     83.07      3.67      3.71         3         1
+S012           Sarah                  PG        PT     76.50      3.00      3.00         1         1
+S349           Alex                   PG        PT     72.40      3.00      3.00         1         1
+S001           Jack (!)               PG        FT     57.10      1.33      1.00         3         0
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S236           Sophia                 UG        FT     91.42      4.00      4.00         4         0
+S120           Charlie                UG        FT     52.38      0.75      1.25         4         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:27:05
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S034           Liam                   PG        FT     83.07      3.67      3.71         3         1
+S012           Sarah                  PG        PT     76.50      3.00      3.00         1         1
+S349           Alex                   PG        PT     72.40      3.00      3.00         1         1
+S001           Jack (!)               PG        FT     57.10      1.33      1.00         3         0
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S236           Sophia                 UG        FT     91.42      4.00      4.00         4         0
+S120           Charlie                UG        FT     52.38      0.75      1.25         4         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:24:58
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S034           Liam                   PG        FT     83.07      3.67      3.71         3         1
+S012           Sarah                  PG        PT     76.50      3.00      3.00         1         1
+S349           Alex                   PG        PT     72.40      3.00      3.00         1         1
+S001           Jack (!)               PG        FT     57.10      1.33      1.00         3         0
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S236           Sophia                 UG        FT     91.42      4.00      4.00         4         0
+S120           Charlie                UG        FT     52.38      0.75      1.25         4         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:21:25
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S034           Liam                   PG        FT     83.07      3.67      3.71         3         1
+S012           Sarah                  PG        PT     76.50      3.00      3.00         1         1
+S349           Alex                   PG        PT     72.40      3.00      3.00         1         1
+S001           Jack (!)               PG        FT     57.10      1.33      1.00         3         0
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S236           Sophia                 UG        FT     91.42      4.00      4.00         4         0
+S120           Charlie                UG        FT     52.38      0.75      1.25         4         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:20:25
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S034           Liam                   PG        FT     83.07      3.67      3.71         3         1
+S012           Sarah                  PG        PT     76.50      3.00      3.00         1         1
+S349           Alex                   PG        PT     72.40      3.00      3.00         1         1
+S001           Jack (!)               PG        FT     57.10      1.33      1.00         3         0
+----------------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+S236           Sophia                 UG        FT     91.42      4.00      4.00         4         0
+S120           Charlie                UG        FT     52.38      0.75      1.25         4         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:19:50
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+-----------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+S034           Liam                   PG        FT     83.07      3.67      3.71         3         1
+S012           Sarah                  PG        PT     76.50      3.00      3.00         1         1
+S349           Alex                   PG        PT     72.40      3.00      3.00         1         1
+S001           Jack (!)               PG        FT     57.10      1.33      1.00         3         0
+-----------------------------------------------------------------------------------------------
+StudentID      Name                 Type      Mode  GPA(100)    GPA(4)   WGPA(4)   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+S236           Sophia                 UG        FT     91.42      4.00      4.00         4         0
+S120           Charlie                UG        FT     52.38      0.75      1.25         4         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:15:45
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+-----------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+-----------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:15:04
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+----------------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+----------------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+----------------------------------------------------------------------------------------------------
+COSC123        Data                    E         6           Sem2     70.60         4         1
+MATH346        Analytics               E         6           Sem1     66.75         2         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:12:53
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       Name                 Type    Credit       Semester   Average   Nfinish  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+ISYS273        System                  C        12            All     79.13         3         0
+COSC045        Java                    C        12            All     74.53         3         1
+ISYS089        Computing               C        24            All     66.92         4         0
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+COSC123        	Data           	         E	         6	           Sem2	     70.60	         4	         1
+MATH346        	Analytics      	         E	         6	           Sem1	     66.75	         2	         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:08:06
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+ISYS273        	System         	         C	        12	            All	     79.13	         3	         0
+COSC045        	Java           	         C	        12	            All	     74.53	         3	         1
+ISYS089        	Computing      	         C	        24	            All	     66.92	         4	         0
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+COSC123        	Data           	         E	         6	           Sem2	     70.60	         4	         1
+MATH346        	Analytics      	         E	         6	           Sem1	     66.75	         2	         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:04:33
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+ISYS273        	System         	         C	        12	            All	     79.13	         3	         0
+COSC045        	Java           	         C	        12	            All	     74.53	         3	         1
+ISYS089        	Computing      	         C	        24	            All	     66.92	         4	         0
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+COSC123        	Data           	         E	         6	           Sem2	     70.60	         4	         1
+MATH346        	Analytics      	         E	         6	           Sem1	     66.75	         2	         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 23:03:26
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+ISYS273        	System         	         C	        12	            All	     79.13	         3	         0
+COSC045        	Java           	         C	        12	            All	     74.53	         3	         1
+ISYS089        	Computing      	         C	        24	            All	     66.92	         4	         0
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+COSC123        	Data           	         E	         6	           Sem2	     70.60	         4	         1
+MATH346        	Analytics      	         E	         6	           Sem1	     66.75	         2	         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 22:59:23
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+ISYS273        	System         	         C	        12	            All	     79.13	         3	         0
+COSC045        	Java           	         C	        12	            All	     74.53	         3	         1
+ISYS089        	Computing      	         C	        24	            All	     66.92	         4	         0
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+COSC123        	Data           	         E	         6	           Sem2	     70.60	         4	         1
+MATH346        	Analytics      	         E	         6	           Sem1	     66.75	         2	         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+Date and time when the report was generated : 11/06/2023 22:54:37
+RESULTS
+-----------------------------------------------------------------------------------------------
+Student IDs    	        COSC045	        COSC123	        ISYS089	        ISYS273	        MATH346	
+-----------------------------------------------------------------------------------------------
+S001           	               	           57.1	           41.8	           72.4	               	
+S012           	               	             --	           76.5	               	               	
+S034           	             --	           85.7	           89.0	           74.5	               	
+S120           	           58.4	           44.2	           60.4	               	           46.5	
+S236           	           92.8	           95.4	               	           90.5	           87.0	
+S349           	           72.4	               	               	               	             --	
+
+RESULTS SUMMARY
+There are 6 students and 5 courses.
+The average pass rate is 81.25%.
+
+COURSE INFORMATION
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+ISYS273        	System         	         C	        12	            All	     79.13	         3	         0
+COSC045        	Java           	         C	        12	            All	     74.53	         3	         1
+ISYS089        	Computing      	         C	        24	            All	     66.92	         4	         0
+--------------------------------------------------------------------------------------------------------------------------
+CourseID       	Name           	      Type	    Credit	       Semester	   Average	   Nfinish	  Nongoing
+--------------------------------------------------------------------------------------------------------------------------
+COSC123        	Data           	         E	         6	           Sem2	     70.60	         4	         1
+MATH346        	Analytics      	         E	         6	           Sem1	     66.75	         2	         1
+
+COURSE SUMMARY
+The most difficult core course is ISYS089 with an average score of 66.92.
+The most difficult elective course is MATH346 with an average score of 66.75.
+
+STUDENT INFORMATION
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S034           	Liam           	        PG	        FT	     83.07	      3.67	      3.71	         3	         1
+S012           	Sarah          	        PG	        PT	     76.50	      3.00	      3.00	         1	         1
+S349           	Alex           	        PG	        PT	     72.40	      3.00	      3.00	         1	         1
+S001           	Jack (!)       	        PG	        FT	     57.10	      1.33	      1.00	         3	         0
+------------------------------------------------------------------------------------------------------------------------------------------
+StudentID      	Name           	      Type	      Mode	  GPA(100)	    GPA(4)	   WGPA(4)	   Nfinish	  Nongoing
+------------------------------------------------------------------------------------------------------------------------------------------
+S236           	Sophia         	        UG	        FT	     91.42	      4.00	      4.00	         4	         0
+S120           	Charlie        	        UG	        FT	     52.38	      0.75	      1.25	         4	         0
+
+STUDENT SUMMARY
+The best PG student is S034 with a GPA score of 3.67.
+The best UG student is S236 with a GPA score of 4.00.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
